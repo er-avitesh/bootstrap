@@ -9,18 +9,7 @@
 <article id="post-10" class="post-10 post type-post status-publish format-standard hentry category-uncategorized tag-distributed-tracing tag-microservices tag-pcf tag-spring-cloud">
 			<header class="entry-header">
 			<h1 class="entry-title">Distributed Tracing with Spring&nbsp;Cloud</h1>		</header><!-- .entry-header -->		<div class="entry-meta">
-			<span class="byline">
-				<a href="" title="Posts by itsAvitesh" rel="author">Avitesh Kesharwani</a>			</span>
-							<span class="cat-links">
-					<a href="" rel="category tag"></a>				</span><!-- .cat-links -->
-			
-			
-			<span class="published-on">
-				<time class="entry-date published updated" datetime="2019-02-04T20:31:51+00:00">February 4, 2019</time>			</span>
-
-			</div><!-- .entry-meta -->
-	
-	<div class="entry-content">
+		
 		
 <p style="font-size:24px;"><strong>Context</strong></p>
 
